@@ -1,4 +1,20 @@
-# Practical Scala
+# Practical Scala 2
+
+Basics of Scala like syntax where everything is expression and its usage must be learned before completing the below training.
+For this access [src/main/scala/com/semantro/BasicScalaBeforeLearn](https://github.com/GrimNick/Practical-Scala-byNewton/tree/main/src/main/scala/com/semantro/BasicScalaBeforeLearn)
+
+## 0. Basics of Scala Before Learning Training
+   Will be easier if you have knowledge of Java, OOP, python, functional programming. Scala v2 concepts like variables, expressionBlocks, recursion, super function, collections,etc. should be understood before accepting this challenge. To develop such concept of this programming language, the following solutions are provided: -
+   - Practical - 1 : hello (Simple printing of hello world)
+   - Practical - 2 : myname 
+   - Practical - 3 : variables 
+   - Practical - 4 : inputOutput 
+   - Practical - 5 : expressionBlocks 
+   - Practical - 6 : tailRecursion 
+   - Practical - 7 : functionGivefunction 
+   - Practical - 8 : calculator 
+   - Practical - 9 : collections 
+   - Practical - 10 : TextStat 
 
 Training conducted for programmers in Semantro[semantro.com].
 
@@ -25,6 +41,8 @@ Training conducted for programmers in Semantro[semantro.com].
 object Main{
   def main(args: Array[String]) = {
         println("Thanks to Martin Odersky.")
+        println("Thanks to Santa Basnet.")
+
     }
 }
 ```
