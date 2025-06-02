@@ -4,7 +4,7 @@ Basics of Scala and its usage must be learned before completing the below traini
 For this access [BasicScalaBeforeLearn](https://github.com/GrimNick/Practical-Scala-byNewton/tree/main/src/main/scala/com/semantro/BasicScalaBeforeLearn). After completing this conceptualization, training will be become more fun to challenge with your understanding and to access [Training](https://github.com/GrimNick/Practical-Scala-byNewton/tree/main/src/main/scala/com/semantro/learn)
 
 ## 0. Basics of Scala Before Learning Training
-   Will be easier if you have knowledge of Java, OOP, python, functional programming. Scala v2 concepts like variables, expressionBlocks, recursion, super function, collections,etc. should be understood before accepting this challenge. To develop such concept of this programming language, the following solutions are provided: -
+   Contains very basic and easy to understand scala solutions. To understand this, it will be easier if you have knowledge of Java, OOP, python, functional programming. Scala v2 concepts like variables, expressionBlocks, recursion, super function, collections,etc. will be explained. If you are well aware of such concept, skip this and move on to [1. Course Materials]. To develop such concept of this programming language, the following solutions are provided: -
    - Practical - 1 : hello (Simple printing of hello world)
    - Practical - 2 : myname 
    - Practical - 3 : variables 
