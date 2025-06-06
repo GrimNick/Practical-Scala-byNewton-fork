@@ -16,6 +16,7 @@ For this access [BasicScalaBeforeLearn](https://github.com/GrimNick/Practical-Sc
    - Practical - 9 : collections 
    - Practical - 10 : TextStat 
    - Practical - 11 : aboutClass 
+   - Practical - 12 : notificationUsingSealed
 
 Training conducted for programmers in Semantro[semantro.com].
 
