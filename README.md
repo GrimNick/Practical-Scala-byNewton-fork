@@ -15,6 +15,7 @@ For this access [BasicScalaBeforeLearn](https://github.com/GrimNick/Practical-Sc
    - Practical - 8 : calculator 
    - Practical - 9 : collections 
    - Practical - 10 : TextStat 
+   - Practical - 11 : aboutClass 
 
 Training conducted for programmers in Semantro[semantro.com].
 
