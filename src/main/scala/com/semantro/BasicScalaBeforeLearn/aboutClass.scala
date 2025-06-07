@@ -103,12 +103,12 @@ object aboutClass {
     println(u3)
 
     //Creating our object for extended class with mixin traits
-    val c1 = new LogModule("I am coding")
+    val c1 = LogModule("I am coding")
     c1.showAll()
 
     //To use sealed trait example of shape
-    val shape1 = new circle(10.0) //r = 10
-    val shape2= new rectangle(5.0,4.0) //w=5,h=4
+    val shape1 = circle(10.0) //r = 10
+    val shape2= rectangle(5.0,4.0) //w=5,h=4
     println("Area of circle is: "+ calcArea(shape1))
 
     println("Area of rectangle is: "+ calcArea(shape2))
