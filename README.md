@@ -17,6 +17,15 @@ For this access [BasicScalaBeforeLearn](https://github.com/GrimNick/Practical-Sc
    - Practical - 10 : TextStat 
    - Practical - 11 : aboutClass 
    - Practical - 12 : notificationUsingSealed
+   - Practical - 13 : matchCalculator
+   - Practical - 14 : matcher
+   - Practical - 15 : aboutOptionalType
+   - Practical - 16 : aboutException
+   - Practical - 17 : safeCalculator
+   - Practical - 18 : aboutAllFunction
+   - Practical - 19 : functionalCalculator
+   - Practical - 20 : notificationUsingSealed
+
 
 Training conducted for programmers in Semantro[semantro.com].
 
