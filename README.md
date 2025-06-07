@@ -24,7 +24,6 @@ For this access [BasicScalaBeforeLearn](https://github.com/GrimNick/Practical-Sc
    - Practical - 17 : safeCalculator
    - Practical - 18 : aboutAllFunction
    - Practical - 19 : functionalCalculator
-   - Practical - 20 : notificationUsingSealed
 
 
 Training conducted for programmers in Semantro[semantro.com].
